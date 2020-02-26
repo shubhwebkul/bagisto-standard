@@ -16,5 +16,4 @@ yarn-error.log
 /public/themes/*
 /public/vendor/*
 /composer.lock
-/composer-old.lock
 
