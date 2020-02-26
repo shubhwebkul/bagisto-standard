@@ -1,3 +1,3 @@
 # A Pack for Bagisto e-commerce platform
 
-This is a Flex pack to install Bagisto.
+This is a pack to install Bagisto.

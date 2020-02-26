@@ -10,3 +10,11 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+/resources/themes/*
+/resources/views/*
+/config/*
+/public/themes/*
+/public/vendor/*
+/composer.lock
+/composer-old.lock
+
